@@ -36,9 +36,13 @@ Je suis passionné par la sécurité des systèmes et la gestion d'infrastructur
 
 #### 📌 Liste de mes certifications :
 
-Certified Penetration Tester Specialist (CPTS) : 
+Certified Penetration Tester Specialist (CPTS) :
 
-Certified Red Team Professional (CRTP) : 
+![CPTS](https://github.com/user-attachments/assets/7e750771-bde5-41f1-b8ad-b017c931da8a)
+
+Certified Red Team Professional (CRTP) :
+
+![Certificat](https://github.com/user-attachments/assets/7ac42acf-ef5c-4157-80d8-29ad2832e739)
 
 
 # 🎯 Mes Services
