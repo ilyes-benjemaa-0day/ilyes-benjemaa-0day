@@ -5,7 +5,7 @@ Bienvenue sur mon portfolio GitHub ! Ici, vous découvrirez mes compétences, mo
 # 💌 Me Contacter
 
 
-📧 Email : ilyes.benjemaa@edu.esiee.fr
+📧 Email : ilyes-benjemaa@hotmail.fr
 
 🌐 LinkedIn : [linkedin.com/in/ilyes-benjemaa](https://www.linkedin.com/in/ilyes-benjemaa/)
 
