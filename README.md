@@ -66,7 +66,7 @@ Je suis en perpétuel apprentissage, actuellement concentré sur :
 
 🕵️‍♂️ **Red Teaming :** Techniques avancées de simulation d’attaques
 
-🔍 **Programmation avancée :** Renforcement de mes compétences en C++
+🔍 **Programmation avancée :** Renforcement de mes compétences en C#
 
 Merci de votre visite ! 😊
 
