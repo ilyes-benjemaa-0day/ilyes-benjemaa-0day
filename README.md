@@ -45,20 +45,6 @@ Certified Red Team Professional (CRTP) :
 ![Certificat](https://github.com/user-attachments/assets/7ac42acf-ef5c-4157-80d8-29ad2832e739)
 
 
-# 🎯 Mes Services
-
-Je propose plusieurs types de services en fonction des besoins de mes clients :
-
-
-🌐 **Infogérance & Support Système :** Surveillance et administration des serveurs, résolutions d'incidents
-
-🔒 **Conseils en Sécurité Cloud :** Sécurisation de l'infrastructure cloud, configurations de sécurité IAM
-
-🔍 **Tests d’intrusion :** Identification de vulnérabilités, exploitation et recommandations de remédiation
-
-🛠️ **Automatisation DevSecOps :** Déploiement d'outils CI/CD, automatisation de la sécurité dans le pipeline de développement
-
-
 
 # 🌱 Toujours en Apprentissage
 
