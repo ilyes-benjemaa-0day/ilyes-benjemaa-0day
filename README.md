@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Ilyes Benjemaa (aka RevengerBaba)
 
-Bienvenue sur mon portfolio GitHub ! Ici, vous découvrirez mes compétences, mon expérience, et les services que je propose en cybersécurité, administration système et DevSecOps.
+Bienvenue sur mon portfolio GitHub ! Ici, vous découvrirez mes compétences, mon expérience, et des sujets en cybersécurité, administration système et DevSecOps.
 
 # 💌 Me Contacter
 
